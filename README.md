@@ -169,31 +169,15 @@ Todos los endpoints, excepto `/login`, requieren autenticación mediante un **Be
 
 ## Capturas de Pantalla / Demostración
 
-Aquí el funcionamiento de mi API.:
-
-- Una captura de pantalla de Postman mostrando una solicitud de autenticación exitosa.
-- Una captura de pantalla de Postman mostrando una solicitud GET para listar tópicos.
-- Una captura de pantalla de tu base de datos con los tópicos creados.
-
-Para añadir una imagen, usa el siguiente formato Markdown:
-
-```markdown
-![Descripción de la imagen](ruta/a/tu/imagen.png)
-```
-
-Por ejemplo:
-
 ```markdown
 ### Autenticación Exitosa
+<img width="649" height="572" alt="image" src="https://github.com/user-attachments/assets/d48db195-c394-46e8-96ea-f7a9b643a9ff" />
 
-![Autenticación Exitosa en Postman](images/auth_success.png)
 
 ### Listado de Tópicos
 
 ![Listado de Tópicos en Postman](images/list_topics.png)
 ```
-
-Asegúrate de crear una carpeta `images` en la raíz de tu proyecto y colocar tus capturas de pantalla allí, o ajusta las rutas según sea necesario.
 
 ## Contribuciones
 

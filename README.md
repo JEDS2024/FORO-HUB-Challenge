@@ -168,16 +168,11 @@ Todos los endpoints, excepto `/login`, requieren autenticación mediante un **Be
 - **Respuesta Fallida (404 Not Found):** Si el tópico no existe.
 
 ## Capturas de Pantalla / Demostración
+<img width="649" height="572" alt="image" src="https://github.com/user-attachments/assets/710d3e15-adf0-4180-9499-d0c187fb0275" />
+<img width="835" height="593" alt="image" src="https://github.com/user-attachments/assets/b155acfd-7416-413c-9f92-9df1822cef83" />
+<img width="844" height="618" alt="image" src="https://github.com/user-attachments/assets/a70fc509-6dce-4e10-a4fd-8fd625131e63" />
 
-```markdown
-### Autenticación Exitosa
-<img width="649" height="572" alt="image" src="https://github.com/user-attachments/assets/d48db195-c394-46e8-96ea-f7a9b643a9ff" />
 
-
-### Listado de Tópicos
-
-![Listado de Tópicos en Postman](images/list_topics.png)
-```
 
 ## Contribuciones
 
